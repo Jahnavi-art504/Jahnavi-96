@@ -106,8 +106,7 @@ Payment Methods
 
 ## 📁 Repository Structure
 
-<img width="583" height="183" alt="image" src="https://github.com/user-attachments/assets/a4ec9b3a-bd6f-4a57-a9cf-67f715589030" />
-
+<img width="556" height="157" alt="image" src="https://github.com/user-attachments/assets/0bee5289-e668-4218-bbe6-eb950ee2cf0e" />
 
 ## 🎓 Skills Demonstrated
 
