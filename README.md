@@ -72,32 +72,17 @@ Payment Methods
 
 ## 🏆 Major Findings & Insights
 ### 🎯 Top Performers
-Leading Category: Health & Beauty (€1.26M - 8% of total revenue)
 
-Payment Preference: Credit Cards (74% of transactions)
-
-Geographic Leader: São Paulo State (€3.7M - 23% of revenue)
-
-Peak Season: Q2 represents optimal performance period
+<img width="509" height="120" alt="image" src="https://github.com/user-attachments/assets/e0330d98-c621-4956-b741-154378372f0b" />
 
 ### ⚠️ Areas for Improvement
-Quality Concerns: Security & Services (2.50/5.0 rating)
 
-Logistics Challenges: Bed, Bath & Table (920 monthly delays)
-
-Seasonal Decline: 39% drop from Q2 to Q4 performance
-
-Geographic Gap: Limited presence in northern/northeastern regions
+<img width="516" height="109" alt="image" src="https://github.com/user-attachments/assets/2bd47a3f-dfc1-453a-b043-8f91c3e1107f" />
 
 ## 🛠️ Technical Implementation
 ### Technologies Used
-Primary Platform: Microsoft Power BI Desktop
 
-Query Language: DAX (Data Analysis Expressions)
-
-Data Architecture: Star Schema Design
-
-Visualization: Interactive dashboards with cross-filtering
+<img width="459" height="118" alt="image" src="https://github.com/user-attachments/assets/8cb7d5b2-ade2-4dd1-948e-416c82c3be4b" />
 
 ### Key DAX Measures
 
@@ -105,39 +90,12 @@ Visualization: Interactive dashboards with cross-filtering
 
     
 ## 📱 Dashboard Features
-🎛️ Interactive KPI Cards: Real-time performance monitoring
 
-🗺️ Geographic Heat Map: State-wise sales distribution
-
-📊 Category Analysis: Top performing product segments
-
-📈 Trend Analysis: Temporal patterns and seasonality
-
-🔍 Cross-Filtering: Dynamic data exploration
-
-📱 Responsive Design: Multi-device compatibility
+<img width="478" height="180" alt="image" src="https://github.com/user-attachments/assets/81f29efb-9266-4276-afe2-ac21e4a65d4f" />
 
 ## 💡 Strategic Recommendations
-### Immediate Actions (0-3 months)
-🚨 Emergency quality improvement for Security & Services
 
-📦 Specialized logistics for Bed, Bath & Table category
-
-📉 Q4 sales recovery strategy implementation
-
-### Medium-term Initiatives (3-12 months)
-🌍 Geographic expansion to underserved regions
-
-💰 Payment method optimization and innovation
-
-📊 Category-specific service enhancements
-
-### Long-term Vision (1+ years)
-🏗️ Infrastructure scaling for continued growth
-
-🤖 AI-powered demand forecasting implementation
-
-🌱 Sustainable logistics solutions
+<img width="531" height="436" alt="image" src="https://github.com/user-attachments/assets/fcb7e4e5-b85f-4440-b974-e44d9d8f6a00" />
 
 ## 📈 Expected Business Impact
 
@@ -145,48 +103,18 @@ Visualization: Interactive dashboards with cross-filtering
 
 
 ## 🚀 How to Use This Project
-Download: Clone this repository to your local machine
 
-Open: Launch the .pbix file in Power BI Desktop
-
-Explore: Use interactive features to explore different insights
-
-Customize: Modify visualizations based on your requirements
-
-Share: Publish to Power BI Service for team collaboration
+<img width="483" height="148" alt="image" src="https://github.com/user-attachments/assets/9fe63a7b-ee06-4c68-8bd5-7f751f1cde2a" />
 
 ## 📁 Repository Structure
 
-![Uploading image.png…]()
+<img width="583" height="183" alt="image" src="https://github.com/user-attachments/assets/a4ec9b3a-bd6f-4a57-a9cf-67f715589030" />
 
 
 ## 🎓 Skills Demonstrated
-Business Intelligence: Advanced dashboard development and data modeling
 
-Data Analysis: Statistical analysis and pattern recognition
-
-DAX Programming: Complex measures and calculated columns
-
-Data Visualization: Interactive charts and geographical mapping
-
-Business Strategy: Actionable insights and recommendations
-
-Technical Documentation: Comprehensive reporting and presentation
+<img width="583" height="183" alt="image" src="https://github.com/user-attachments/assets/7f2e0c92-cc59-4d27-b8b7-14bd71884e0b" />
 
 ## 🏆 Achievements
-✅ Comprehensive analysis of 1.4M+ e-commerce records
 
-✅ Identification of €2M+ revenue optimization opportunities
-
-✅ Development of data-driven strategic roadmap
-
-✅ Creation of interactive business intelligence solution
-
-## 📞 Contact Information
-Jahnavi Krishna
-
-📧 Email: krishnajahnavi61@gmail.com
-
-💼 LinkedIn: linkedin.com/in/jahnavi-krishna 
-
-🐙 GitHub: https://github.com/Jahnavi-art504
+<img width="480" height="122" alt="image" src="https://github.com/user-attachments/assets/385d195e-62df-4c4d-81b8-d76518b39d02" />
