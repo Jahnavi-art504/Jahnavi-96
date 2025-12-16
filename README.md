@@ -68,7 +68,7 @@ Payment Methods
 
 ### 10 · Revenue & Yearly Trends
 
-<img width="697" height="301" alt="image" src="https://github.com/user-attachments/assets/6093bec2-f4e6-429f-826a-e959f2ae959c" />
+<img width="628" height="271" alt="image" src="https://github.com/user-attachments/assets/6dbf7c69-40a8-4d05-983c-9e173043c587" />
 
 ## 🏆 Major Findings & Insights
 ### 🎯 Top Performers
