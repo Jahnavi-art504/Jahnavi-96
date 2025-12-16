@@ -215,5 +215,7 @@ Technical Documentation: Comprehensive reporting and presentation
 Jahnavi Krishna
 
 📧 Email: krishnajahnavi61@gmail.com
+
 💼 LinkedIn: linkedin.com/in/jahnavi-krishna
+
 🐙 GitHub: https://github.com/Jahnavi-art504
