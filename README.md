@@ -1,5 +1,7 @@
 # 🛍️ ShopNest Store - Power BI Business Analytics Dashboard
 
+<img width="334" height="39" alt="image" src="https://github.com/user-attachments/assets/5d5ea86c-5a9d-4925-8140-5c7590d91c43" />
+
 ## 📋 Project Overview
 A comprehensive business intelligence solution analyzing Portugal's leading e-commerce platform ShopNest Store. This Power BI capstone project delivers actionable insights across sales performance, customer behavior, operational efficiency, and geographic distribution through interactive dashboards and in-depth analytics.
 
