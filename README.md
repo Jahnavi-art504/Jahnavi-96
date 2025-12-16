@@ -36,12 +36,19 @@ Customer Rating	4.04/5.0	✅ Good Satisfaction
 
 ## 🔍 Key Analytical Questions Addressed
 📈 Category Performance: Top 10 product categories by revenue
+
 🚚 Logistics Analysis: Delayed orders by category and timeline
+
 📅 Temporal Trends: Monthly delivery performance comparison
+
 💰 Payment Insights: Customer payment method preferences
+
 ⭐ Quality Assessment: Highest and lowest rated categories
+
 🌍 Geographic Distribution: State-wise sales performance analysis
+
 📊 Seasonal Patterns: Quarterly sales cycle analysis
+
 📈 Growth Trajectory: Year-over-year revenue trends
 
 ## 📸 Screenshots & Figures
