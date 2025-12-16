@@ -86,21 +86,30 @@ Revenue Trends
 ## 🏆 Major Findings & Insights
 ### 🎯 Top Performers
 Leading Category: Health & Beauty (€1.26M - 8% of total revenue)
+
 Payment Preference: Credit Cards (74% of transactions)
+
 Geographic Leader: São Paulo State (€3.7M - 23% of revenue)
+
 Peak Season: Q2 represents optimal performance period
 
 ### ⚠️ Areas for Improvement
 Quality Concerns: Security & Services (2.50/5.0 rating)
+
 Logistics Challenges: Bed, Bath & Table (920 monthly delays)
+
 Seasonal Decline: 39% drop from Q2 to Q4 performance
+
 Geographic Gap: Limited presence in northern/northeastern regions
 
 ## 🛠️ Technical Implementation
 ### Technologies Used
 Primary Platform: Microsoft Power BI Desktop
+
 Query Language: DAX (Data Analysis Expressions)
+
 Data Architecture: Star Schema Design
+
 Visualization: Interactive dashboards with cross-filtering
 
 ### Key DAX Measures
@@ -121,26 +130,37 @@ Customer Satisfaction Rate = DIVIDE(
     
 ## 📱 Dashboard Features
 🎛️ Interactive KPI Cards: Real-time performance monitoring
+
 🗺️ Geographic Heat Map: State-wise sales distribution
+
 📊 Category Analysis: Top performing product segments
+
 📈 Trend Analysis: Temporal patterns and seasonality
+
 🔍 Cross-Filtering: Dynamic data exploration
+
 📱 Responsive Design: Multi-device compatibility
 
 ## 💡 Strategic Recommendations
 ### Immediate Actions (0-3 months)
 🚨 Emergency quality improvement for Security & Services
+
 📦 Specialized logistics for Bed, Bath & Table category
+
 📉 Q4 sales recovery strategy implementation
 
 ### Medium-term Initiatives (3-12 months)
 🌍 Geographic expansion to underserved regions
+
 💰 Payment method optimization and innovation
+
 📊 Category-specific service enhancements
 
 ### Long-term Vision (1+ years)
 🏗️ Infrastructure scaling for continued growth
+
 🤖 AI-powered demand forecasting implementation
+
 🌱 Sustainable logistics solutions
 
 ## 📈 Expected Business Impact
@@ -151,9 +171,13 @@ Category Enhancement	€1M	12% margin improvement	12 months
 
 ## 🚀 How to Use This Project
 Download: Clone this repository to your local machine
+
 Open: Launch the .pbix file in Power BI Desktop
+
 Explore: Use interactive features to explore different insights
+
 Customize: Modify visualizations based on your requirements
+
 Share: Publish to Power BI Service for team collaboration
 
 ## 📁 Repository Structure
