@@ -191,16 +191,24 @@ Share: Publish to Power BI Service for team collaboration
 
 ## 🎓 Skills Demonstrated
 Business Intelligence: Advanced dashboard development and data modeling
+
 Data Analysis: Statistical analysis and pattern recognition
+
 DAX Programming: Complex measures and calculated columns
+
 Data Visualization: Interactive charts and geographical mapping
+
 Business Strategy: Actionable insights and recommendations
+
 Technical Documentation: Comprehensive reporting and presentation
 
 ## 🏆 Achievements
 ✅ Comprehensive analysis of 1.4M+ e-commerce records
+
 ✅ Identification of €2M+ revenue optimization opportunities
+
 ✅ Development of data-driven strategic roadmap
+
 ✅ Creation of interactive business intelligence solution
 
 ## 📞 Contact Information
