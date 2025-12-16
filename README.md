@@ -54,29 +54,56 @@ Dashboard Overview
 ### 2 · Top Categories by Total Price
 Top Categories
 
+<img width="622" height="262" alt="image" src="https://github.com/user-attachments/assets/644b3a19-f59f-42bc-a64c-ba3934232805" />
+
+
 ### 3 · Delayed Orders Analysis
 Delayed Orders
+
+<img width="633" height="266" alt="image" src="https://github.com/user-attachments/assets/a8eba1b7-db56-4ea7-ba8c-be1a23690baf" />
+
 
 ### 4 · Monthly On-time vs Delayed
 Monthly Comparison
 
+<img width="644" height="286" alt="image" src="https://github.com/user-attachments/assets/5eb886ed-6beb-4155-bf89-e8991107cdf2" />
+
+
 ### 5 · Payment Method Analysis
 Payment Methods
+
+<img width="626" height="407" alt="image" src="https://github.com/user-attachments/assets/a503b8ed-9178-40bf-bca0-f421f5c8da39" />
+
 
 ### 6 · State-wise Sales Map
 State-wise Sales
 
+<img width="406" height="454" alt="image" src="https://github.com/user-attachments/assets/51c4d018-6cfc-41ce-b16b-b44591cc83c9" />
+
+
 ### 7 · Highest-Rated Categories
 Highest Rated
+
+<img width="362" height="309" alt="image" src="https://github.com/user-attachments/assets/7d8029b5-156f-4d2c-8acf-688e92c8f4a3" />
+
 
 ### 8 · Lowest-Rated Categories
 Lowest Rated
 
+<img width="376" height="328" alt="image" src="https://github.com/user-attachments/assets/dfcff30d-7476-49eb-87ba-bb5bbcf1c671" />
+
+
 ### 9 · Seasonal Sales Patterns
 Seasonal Patterns
 
+<img width="584" height="300" alt="image" src="https://github.com/user-attachments/assets/5f5385bf-181d-420e-aa7a-211a30b0ad38" />
+
+
 ### 10 · Revenue & Yearly Trends
 Revenue Trends
+
+![Uploading image.png…]()
+
 
 ## 🏆 Major Findings & Insights
 ### 🎯 Top Performers
