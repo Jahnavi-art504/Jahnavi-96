@@ -98,8 +98,7 @@ Payment Methods
 
 ## 📈 Expected Business Impact
 
-<img width="574" height="165" alt="image" src="https://github.com/user-attachments/assets/218acf13-2773-4733-bb34-322a55d9fcc0" />
-
+<img width="625" height="171" alt="image" src="https://github.com/user-attachments/assets/0068a4a2-9dce-4839-a6a4-40992724ee34" />
 
 ## 🚀 How to Use This Project
 
