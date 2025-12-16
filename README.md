@@ -46,6 +46,7 @@ ShopNest Store serves as Portugal's premier e-commerce department store, connect
 ## 📸 Dashboard Screenshots
 ### 1 · Dashboard Overview
 Dashboard Overview
+<img width="707" height="404" alt="image" src="https://github.com/user-attachments/assets/f829ffdf-a46c-48e9-bdfd-6ee84770dc30" />
 
 ### 2 · Top Categories by Total Price
 Top Categories
