@@ -13,13 +13,8 @@ ShopNest Store serves as Portugal's premier e-commerce department store, connect
 
 
 ## 🎯 Project Objectives
-✅ Analyze comprehensive e-commerce data for actionable insights
 
-✅ Answer 8 critical business questions through interactive visualizations
-
-✅ Provide strategic recommendations for sales and logistics optimization
-
-✅ Demonstrate advanced Power BI and business analytics proficiency
+<img width="560" height="124" alt="image" src="https://github.com/user-attachments/assets/6dc6c236-8f5c-4310-a9b7-3d890e0cf036" />
 
 ## 📁 Dataset Overview
 ### Analysis Period: 2016-2018 | Total Records: 1.4M+
