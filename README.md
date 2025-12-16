@@ -23,21 +23,8 @@ ShopNest Store serves as Portugal's premier e-commerce department store, connect
 
 
 ## 🔍 Key Analytical Questions Addressed
-📈 Category Performance: Top 10 product categories by revenue
 
-🚚 Logistics Analysis: Delayed orders by category and timeline
-
-📅 Temporal Trends: Monthly delivery performance comparison
-
-💰 Payment Insights: Customer payment method preferences
-
-⭐ Quality Assessment: Highest and lowest rated categories
-
-🌍 Geographic Distribution: State-wise sales performance analysis
-
-📊 Seasonal Patterns: Quarterly sales cycle analysis
-
-📈 Growth Trajectory: Year-over-year revenue trends
+<img width="508" height="229" alt="image" src="https://github.com/user-attachments/assets/16b3305e-0ebf-406f-aee8-36dad38d7b38" />
 
 ## 📸 Screenshots & Figures
 ## 📸 Dashboard Screenshots
