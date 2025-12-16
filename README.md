@@ -22,14 +22,8 @@ ShopNest Store serves as Portugal's premier e-commerce department store, connect
 ## 📁 Dataset Overview
 ### Analysis Period: 2016-2018 | Total Records: 1.4M+
 
-## Dataset	Records	Key Information
-🛒 Orders	99,441	Order lifecycle and delivery tracking
-👥 Customers	99,441	Geographic and demographic data
-📦 Products	32,951	Category classification and specifications
-💳 Payments	103,886	Transaction methods and installments
-⭐ Reviews	99,224	Customer satisfaction ratings
-🏪 Sellers	3,095	Merchant network information
-🗺️ Geolocation	1M+	Geographic coordinate mapping
+<img width="549" height="314" alt="image" src="https://github.com/user-attachments/assets/bd81b550-da28-4245-9454-98de321cda08" />
+
 
 ## 🔍 Key Analytical Questions Addressed
 📈 Category Performance: Top 10 product categories by revenue
