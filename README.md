@@ -222,6 +222,6 @@ Jahnavi Krishna
 
 📧 Email: krishnajahnavi61@gmail.com
 
-💼 LinkedIn: linkedin.com/in/jahnavi-krishna
+💼 LinkedIn: linkedin.com/in/jahnavi-krishna 
 
 🐙 GitHub: https://github.com/Jahnavi-art504
