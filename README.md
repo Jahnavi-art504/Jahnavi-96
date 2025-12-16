@@ -7,11 +7,8 @@ A comprehensive business intelligence solution analyzing Portugal's leading e-co
 ShopNest Store serves as Portugal's premier e-commerce department store, connecting small businesses nationwide with customers through a streamlined platform. The company facilitates seamless transactions while providing logistics support for direct customer shipment.
 
 ## 📊 Key Performance Indicators
-Metric	Value	Status
-Total Revenue	€15.84M	✅ Strong Performance
-Total Orders	99K	✅ High Engagement
-Delayed Orders	8K (8.1%)	⚠️ Needs Improvement
-Customer Rating	4.04/5.0	✅ Good Satisfaction
+<img width="480" height="208" alt="image" src="https://github.com/user-attachments/assets/09e6622f-83b3-4693-a214-2c38ec861c7e" />
+
 
 ## 🎯 Project Objectives
 ✅ Analyze comprehensive e-commerce data for actionable insights
