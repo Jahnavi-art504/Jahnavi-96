@@ -86,9 +86,8 @@ Payment Methods
 
 ### Key DAX Measures
 
-<img width="629" height="171" alt="image" src="https://github.com/user-attachments/assets/b402da79-1cdf-4816-8728-3179758e4ad0" />
+<img width="674" height="295" alt="image" src="https://github.com/user-attachments/assets/c62be48f-9925-47ad-8c73-6434809ce3e1" />
 
-    
 ## 📱 Dashboard Features
 
 <img width="478" height="180" alt="image" src="https://github.com/user-attachments/assets/81f29efb-9266-4276-afe2-ac21e4a65d4f" />
