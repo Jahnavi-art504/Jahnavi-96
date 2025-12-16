@@ -15,8 +15,11 @@ Customer Rating	4.04/5.0	✅ Good Satisfaction
 
 ## 🎯 Project Objectives
 ✅ Analyze comprehensive e-commerce data for actionable insights
+
 ✅ Answer 8 critical business questions through interactive visualizations
+
 ✅ Provide strategic recommendations for sales and logistics optimization
+
 ✅ Demonstrate advanced Power BI and business analytics proficiency
 
 ## 📁 Dataset Overview
