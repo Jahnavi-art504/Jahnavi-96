@@ -102,7 +102,7 @@ Seasonal Patterns
 ### 10 · Revenue & Yearly Trends
 Revenue Trends
 
-![Uploading image.png…]()
+<img width="697" height="301" alt="image" src="https://github.com/user-attachments/assets/6093bec2-f4e6-429f-826a-e959f2ae959c" />
 
 
 ## 🏆 Major Findings & Insights
@@ -135,20 +135,9 @@ Data Architecture: Star Schema Design
 Visualization: Interactive dashboards with cross-filtering
 
 ### Key DAX Measures
-// Sales Performance
-Total Sales = SUMX(Order_Items, Order_Items[price] + Order_Items[freight_value])
-Average Order Value = DIVIDE([Total Sales], [Total Orders])
 
-// Delivery Performance
-Delayed Orders = CALCULATE(COUNTROWS(Orders), 
-    Orders[order_delivered_customer_date] &gt; Orders[order_estimated_delivery_date])
-On-Time Delivery Rate = DIVIDE([Total Orders] - [Delayed Orders], [Total Orders])
+<img width="629" height="171" alt="image" src="https://github.com/user-attachments/assets/b402da79-1cdf-4816-8728-3179758e4ad0" />
 
-// Customer Satisfaction
-Average Rating = AVERAGE(Order_Reviews[review_score])
-Customer Satisfaction Rate = DIVIDE(
-    CALCULATE(COUNT(Order_Reviews[review_score]), Order_Reviews[review_score] &gt;= 4),
-    COUNT(Order_Reviews[review_score]))
     
 ## 📱 Dashboard Features
 🎛️ Interactive KPI Cards: Real-time performance monitoring
@@ -186,10 +175,9 @@ Customer Satisfaction Rate = DIVIDE(
 🌱 Sustainable logistics solutions
 
 ## 📈 Expected Business Impact
-Initiative	Investment	Expected ROI	Timeline
-Logistics Optimization	€500K	15% delay reduction	6 months
-Geographic Expansion	€2M	20% revenue increase	18 months
-Category Enhancement	€1M	12% margin improvement	12 months
+
+<img width="574" height="165" alt="image" src="https://github.com/user-attachments/assets/218acf13-2773-4733-bb34-322a55d9fcc0" />
+
 
 ## 🚀 How to Use This Project
 Download: Clone this repository to your local machine
@@ -203,13 +191,9 @@ Customize: Modify visualizations based on your requirements
 Share: Publish to Power BI Service for team collaboration
 
 ## 📁 Repository Structure
-📦 shopnest-powerbi-analytics/
-├── 📊 ShopNest-Dashboard.pbix          # Main Power BI file
-├── 📈 ShopNest-Report.pdf              # Comprehensive analysis report
-├── 📋 data/                            # Raw datasets (anonymized)
-├── 🖼️ screenshots/                     # Dashboard screenshots
-├── 📝 README.md                        # Project documentation
-└── 📄 LICENSE                          # MIT License
+
+![Uploading image.png…]()
+
 
 ## 🎓 Skills Demonstrated
 Business Intelligence: Advanced dashboard development and data modeling
